@@ -1,8 +1,8 @@
 # 🛡️Cloud-Security-with-AWS-IAM
 ## 📘 Project Description
-![This is an AWS infrastructure image]()
 This beginner-friendly project focuses on securing two Amazon EC2 instances using AWS IAM. One EC2 instance represents a **Production Environment**, and the other represents a **Development Environment**. The project demonstrates how to manage user access, enforce least privilege policies, and associate IAM roles to EC2 instances using the AWS Console only.
 
+![This is an AWS infrastructure image](awsimg.PNG)
 ---
 
 ## 🎯 Objectives
